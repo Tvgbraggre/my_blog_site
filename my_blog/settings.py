@@ -25,7 +25,7 @@ SECRET_KEY = 't#gy8wj219=nc1k35vhni0&jfm_utel7u*l&4agl-sq!o)9=h_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Tvgbraggre.pythonanywhere']
+ALLOWED_HOSTS = ['127.0.0.1', 'Tvgbraggre.pythonanywhere.com']
 
 
 # Application definition
