@@ -88,12 +88,7 @@ body {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
-}
-footer {
-    margin-top: 20px;
-    display: block;
-    background-color: blue;
-}
+
 .copyright {
     font-size: 18px;
     text-align: center;
