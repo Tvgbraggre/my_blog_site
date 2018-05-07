@@ -33,9 +33,11 @@ h1, h2, h3, h4, h5 {
 }
 .save {
   float:right ;
+  background-color: #6a5acd
 }
 .post-form textarea, .post-form input {
     width: 100%;
+    background-color: #D3D3D3;
 }
 .top-menu, .top-menu:hover, .top-menu:visited{
     color:#ffffff ;
